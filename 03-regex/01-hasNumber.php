@@ -13,6 +13,6 @@ dump(hasNumber("bl3h")); // true
 dump(hasNumber("bl3h5")); // true
 
 
-//NOTES
+// NOTES
 // needs to return TRUE 
 // preg_match - used to check if string matched regular expression. 
